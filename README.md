@@ -27,3 +27,9 @@ To classify images using a deep learning CNN model.
 - Model optimization
 - Deployment using Gradio
 - Adding accuracy comparison graphs
+
+- ## Live Demo
+
+Check out the deployed app 👇  
+🔗 https://huggingface.co/spaces/pramod10966/paddy-disease-detector
+
